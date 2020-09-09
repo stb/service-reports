@@ -1,0 +1,331 @@
+{
+"documents": [
+  {
+    "id": 2,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-05 05:29:26"
+  }, {
+    "id": 3,
+    "type": "device",
+    "user_id": 2,
+    "last_changed": "2020-09-07 17:02:27"
+  }, {
+    "id": 4,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-01 16:23:26"
+  }, {
+    "id": 5,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-07 23:09:13"
+  }, {
+    "id": 6,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-07 22:49:48"
+  }, {
+    "id": 7,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-05 14:29:01"
+  }, {
+    "id": 8,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-08 02:24:53"
+  }, {
+    "id": 9,
+    "type": "device",
+    "user_id": 1,
+    "last_changed": "2020-09-06 08:04:09"
+  }, {
+    "id": 10,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-04 06:35:59"
+  }, {
+    "id": 11,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-01 11:44:51"
+  }, {
+    "id": 12,
+    "type": "device",
+    "user_id": 2,
+    "last_changed": "2020-09-02 05:28:04"
+  }, {
+    "id": 13,
+    "type": "device",
+    "user_id": 1,
+    "last_changed": "2020-09-06 13:51:01"
+  }, {
+    "id": 14,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-06 18:25:32"
+  }, {
+    "id": 15,
+    "type": "device",
+    "user_id": 1,
+    "last_changed": "2020-09-06 21:07:33"
+  }, {
+    "id": 16,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-08 12:27:25"
+  }, {
+    "id": 17,
+    "type": "report",
+    "user_id": 2,
+    "last_changed": "2020-09-02 15:16:17"
+  }, {
+    "id": 18,
+    "type": "report",
+    "user_id": 1,
+    "last_changed": "2020-09-04 12:50:35"
+  }, {
+    "id": 19,
+    "type": "device",
+    "user_id": 1,
+    "last_changed": "2020-09-03 21:03:42"
+  }, {
+    "id": 20,
+    "type": "device",
+    "user_id": 1,
+    "last_changed": "2020-09-02 00:16:17"
+  }],
+  "users": [{
+    "id": 1,
+    "first_name": "Max",
+    "last_name": "Peter"
+    }, {
+  "id": 2,
+  "first_name": "Franz",
+  "last_name": "Hammerl"
+}],
+"devices": [{
+    "id": 1,
+    "type": "mt",
+    "serial_number": "4502530638",
+    "device_number": "9979223154",
+    "location": "138 Sugar Junction"
+  }, {
+    "id": 2,
+    "type": "fd",
+    "serial_number": "2977949461",
+    "device_number": "1385350016",
+    "location": "7393 Independence Parkway"
+  }, {
+    "id": 3,
+    "type": "fd",
+    "serial_number": "1353518515",
+    "device_number": "4239529271",
+    "location": "44050 Mesta Place"
+  }, {
+    "id": 4,
+    "type": "fd",
+    "serial_number": "8901308630",
+    "device_number": "7939966820",
+    "location": "2045 Maple Parkway"
+  }, {
+    "id": 5,
+    "type": "mt",
+    "serial_number": "9407246418",
+    "device_number": "0131593684",
+    "location": "3364 Mayer Hill"
+  }, {
+    "id": 6,
+    "type": "mt",
+    "serial_number": "5811457413",
+    "device_number": "2464259470",
+    "location": "78 Trailsway Park"
+  }, {
+    "id": 7,
+    "type": "mt",
+    "serial_number": "5224822386",
+    "device_number": "8323268886",
+    "location": "85106 Gina Court"
+  }, {
+    "id": 8,
+    "type": "wb",
+    "serial_number": "1079109463",
+    "device_number": "1125785721",
+    "location": "285 Homewood Hill"
+  }, {
+    "id": 9,
+    "type": "fd",
+    "serial_number": "4646634295",
+    "device_number": "2797610911",
+    "location": "94 Katie Parkway"
+  }, {
+    "id": 10,
+    "type": "mt",
+    "serial_number": "3097622187",
+    "device_number": "4829043156",
+    "location": "437 Melby Avenue"
+  }, {
+    "id": 11,
+    "type": "mt",
+    "serial_number": "0795839707",
+    "device_number": "1320580963",
+    "location": "26 Warbler Plaza"
+  }, {
+    "id": 12,
+    "type": "mt",
+    "serial_number": "1021679690",
+    "device_number": "6800552194",
+    "location": "07422 Mandrake Point"
+  }, {
+    "id": 13,
+    "type": "mt",
+    "serial_number": "2288127422",
+    "device_number": "0755294270",
+    "location": "71334 Shopko Point"
+  }, {
+    "id": 14,
+    "type": "mt",
+    "serial_number": "8902373134",
+    "device_number": "6238112867",
+    "location": "8086 Monument Place"
+  }, {
+    "id": 15,
+    "type": "mt",
+    "serial_number": "9347070785",
+    "device_number": "5688926058",
+    "location": "83475 Oakridge Way"
+  }, {
+    "id": 16,
+    "type": "fd",
+    "serial_number": "5606062275",
+    "device_number": "2184607959",
+    "location": "2659 Orin Terrace"
+  }, {
+    "id": 17,
+    "type": "mt",
+    "serial_number": "1267715707",
+    "device_number": "2850029777",
+    "location": "566 Darwin Terrace"
+  }, {
+    "id": 18,
+    "type": "fd",
+    "serial_number": "0857009508",
+    "device_number": "8765767225",
+    "location": "5082 Rigney Plaza"
+  }, {
+    "id": 19,
+    "type": "fd",
+    "serial_number": "7551049045",
+    "device_number": "5039711255",
+    "location": "4 Paget Park"
+  }, {
+    "id": 20,
+    "type": "fd",
+    "serial_number": "4529490165",
+    "device_number": "0673908259",
+    "location": "92 Oakridge Hill"
+  }],
+
+  "reports" :[{
+    "id": 1,
+    "created_at": "2020-02-14 05:04:57",
+    "user_id": 1,
+    "type": "repair"
+  }, {
+    "id": 2,
+    "created_at": "2019-12-07 12:37:08",
+    "user_id": 1,
+    "type": "maintenance"
+  }, {
+    "id": 3,
+    "created_at": "2020-03-23 19:46:02",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 4,
+    "created_at": "2020-07-20 02:28:37",
+    "user_id": 1,
+    "type": "maintenance"
+  }, {
+    "id": 5,
+    "created_at": "2020-04-07 05:17:56",
+    "user_id": 2,
+    "type": "repair"
+  }, {
+    "id": 6,
+    "created_at": "2019-11-14 19:38:18",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 7,
+    "created_at": "2020-01-22 03:40:43",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 8,
+    "created_at": "2020-03-28 00:52:07",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 9,
+    "created_at": "2020-08-01 19:44:41",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 10,
+    "created_at": "2020-06-07 17:17:20",
+    "user_id": 1,
+    "type": "repair"
+  }, {
+    "id": 11,
+    "created_at": "2020-04-03 11:05:12",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 12,
+    "created_at": "2020-08-01 18:58:07",
+    "user_id": 1,
+    "type": "repair"
+  }, {
+    "id": 13,
+    "created_at": "2020-02-08 02:50:31",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 14,
+    "created_at": "2020-04-09 08:09:57",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 15,
+    "created_at": "2020-09-01 00:31:11",
+    "user_id": 1,
+    "type": "maintenance"
+  }, {
+    "id": 16,
+    "created_at": "2020-09-07 17:53:29",
+    "user_id": 1,
+    "type": "repair"
+  }, {
+    "id": 17,
+    "created_at": "2020-01-22 16:42:04",
+    "user_id": 1,
+    "type": "repair"
+  }, {
+    "id": 18,
+    "created_at": "2020-08-27 11:32:20",
+    "user_id": 2,
+    "type": "repair"
+  }, {
+    "id": 19,
+    "created_at": "2020-07-12 02:11:25",
+    "user_id": 2,
+    "type": "maintenance"
+  }, {
+    "id": 20,
+    "created_at": "2020-03-12 14:06:08",
+    "user_id": 2,
+    "type": "repair"
+  }]
+}
